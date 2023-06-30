@@ -13,3 +13,18 @@ C:\Users\Gustavo Soares\Desktop\Jogo de xadrez\obj\Debug\net7.0\refint\Jogo de x
 C:\Users\Gustavo Soares\Desktop\Jogo de xadrez\obj\Debug\net7.0\Jogo de xadrez.pdb
 C:\Users\Gustavo Soares\Desktop\Jogo de xadrez\obj\Debug\net7.0\Jogo de xadrez.genruntimeconfig.cache
 C:\Users\Gustavo Soares\Desktop\Jogo de xadrez\obj\Debug\net7.0\ref\Jogo de xadrez.dll
+C:\Users\Gustavo Soares\Desktop\C# gustavo\JogoDeXadrez\Jogo-de-Xadrez\bin\Debug\net7.0\Jogo de xadrez.exe
+C:\Users\Gustavo Soares\Desktop\C# gustavo\JogoDeXadrez\Jogo-de-Xadrez\bin\Debug\net7.0\Jogo de xadrez.deps.json
+C:\Users\Gustavo Soares\Desktop\C# gustavo\JogoDeXadrez\Jogo-de-Xadrez\bin\Debug\net7.0\Jogo de xadrez.runtimeconfig.json
+C:\Users\Gustavo Soares\Desktop\C# gustavo\JogoDeXadrez\Jogo-de-Xadrez\bin\Debug\net7.0\Jogo de xadrez.dll
+C:\Users\Gustavo Soares\Desktop\C# gustavo\JogoDeXadrez\Jogo-de-Xadrez\bin\Debug\net7.0\Jogo de xadrez.pdb
+C:\Users\Gustavo Soares\Desktop\C# gustavo\JogoDeXadrez\Jogo-de-Xadrez\obj\Debug\net7.0\Jogo de xadrez.csproj.AssemblyReference.cache
+C:\Users\Gustavo Soares\Desktop\C# gustavo\JogoDeXadrez\Jogo-de-Xadrez\obj\Debug\net7.0\Jogo de xadrez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo Soares\Desktop\C# gustavo\JogoDeXadrez\Jogo-de-Xadrez\obj\Debug\net7.0\Jogo de xadrez.AssemblyInfoInputs.cache
+C:\Users\Gustavo Soares\Desktop\C# gustavo\JogoDeXadrez\Jogo-de-Xadrez\obj\Debug\net7.0\Jogo de xadrez.AssemblyInfo.cs
+C:\Users\Gustavo Soares\Desktop\C# gustavo\JogoDeXadrez\Jogo-de-Xadrez\obj\Debug\net7.0\Jogo de xadrez.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Soares\Desktop\C# gustavo\JogoDeXadrez\Jogo-de-Xadrez\obj\Debug\net7.0\Jogo de xadrez.dll
+C:\Users\Gustavo Soares\Desktop\C# gustavo\JogoDeXadrez\Jogo-de-Xadrez\obj\Debug\net7.0\refint\Jogo de xadrez.dll
+C:\Users\Gustavo Soares\Desktop\C# gustavo\JogoDeXadrez\Jogo-de-Xadrez\obj\Debug\net7.0\Jogo de xadrez.pdb
+C:\Users\Gustavo Soares\Desktop\C# gustavo\JogoDeXadrez\Jogo-de-Xadrez\obj\Debug\net7.0\Jogo de xadrez.genruntimeconfig.cache
+C:\Users\Gustavo Soares\Desktop\C# gustavo\JogoDeXadrez\Jogo-de-Xadrez\obj\Debug\net7.0\ref\Jogo de xadrez.dll

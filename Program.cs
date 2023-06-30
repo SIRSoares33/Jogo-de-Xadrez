@@ -7,9 +7,9 @@ class Program
 {
     static void Main(string[] args)
     {
-        Posicao posicao = new Posicao(2, 3);
+        Tabuleiro tab = new Tabuleiro(8, 8);
         
-        Console.WriteLine(posicao);
+        Tela.imprimeTabuleiro(tab);
         Console.ReadKey();
     }
 }
