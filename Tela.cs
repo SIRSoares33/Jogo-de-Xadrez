@@ -13,7 +13,7 @@ namespace Jogo_de_xadrez
                     if(tab.GetPecas(i, j) == null)
                         Console.Write("- ");
                     else
-                        Console.Write(tab.GetPecas(i, j)+ " ");
+                        Console.Write(tab.GetPecas(i, j).ToString() + " ");
                 }
                 Console.WriteLine();
             }
